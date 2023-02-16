@@ -1,0 +1,24 @@
+button {
+    width: 400px;
+    height: 80px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: aliceblue;
+    border: 2px solid white;
+    border-radius: 10px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #00471b;
+}
+
+.boton-clic {
+    background-color: #002aed;
+}
+
+.boton-reiniciar {
+    background-color: #5a015a;
+}
